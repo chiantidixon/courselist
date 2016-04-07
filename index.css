@@ -30,7 +30,7 @@ h1 {
 }
 
 .button {
-	background-color:transparent;
+	background-color:none;
 	-moz-border-radius:28px;
 	-webkit-border-radius:28px;
 	display:inline-block;
