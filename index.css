@@ -24,12 +24,13 @@ h1 {
 
 .dropdown{
 	display: inline;
-	display: inline;
+	background-color: transparent;
     margin-left: 60px;
     left: 30%;
 }
 
 .button{
+
 	background color: transparent;
 	border: none;
 
