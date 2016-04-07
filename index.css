@@ -3,9 +3,10 @@
  body {
     background-image: url("file:///Users/cdixon10/Desktop/Git/images/background.png");
     background-repeat: no-repeat;
-    background-size: 1800px 1200px;
+    background-size: 99% 90%;
     background-attachment: fixed;
     background-position: center;
+    background-position-y: 114px;
 }
 
 #courselist {
